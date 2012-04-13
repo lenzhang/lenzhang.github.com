@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "lenzhangµÄµÚÒ»¸ögit pages"
-description: "lenzhangµÄµÚÒ»¸ögit pages!"
-category: ĞÄÇéÈÕ¼Ç
+title: "lenzhang's first git pages"
+description: "lenzhangçš„ç¬¬ä¸€ä¸ªgit page post!"
+category: life
 tags: [first,pages]
 ---
 {% include JB/setup %}
-
-    ÕâÊÇÎÒµÄµÚÒ»¸öpagesÎÄÕÂ¡£
-    Ò»Ö±ÒÔÀ´¶¼ÏëÕÒµ½Ò»¸ö¿ÉÒÔÓÃvimĞ´blogµÄ²å¼ş£¬Ö±µ½·¢ÏÖgit pagesµÄÊ±ºòÕæµÄÊÇÈç»ñÖÁ±¦£¬Ì«°ôÁË£¬ÎÒÖÕÓÚ¿ÉÒÔÓÃvimĞ´blogÁË¡£
+    è¿™æ˜¯æˆ‘çš„ç¬¬ä¸€ä¸ªpagesæ–‡ç« ã€‚
+    ä¸€ç›´ä»¥æ¥éƒ½æƒ³æ‰¾åˆ°ä¸€ä¸ªå¯ä»¥ç”¨vimå†™blogçš„æ’ä»¶ï¼Œç›´åˆ°å‘ç°git pagesçš„æ—¶å€™çœŸçš„æ˜¯å¦‚è·è‡³å®ï¼Œå¤ªæ£’äº†ï¼Œæˆ‘ç»ˆäºå¯ä»¥ç”¨vimå†™blogäº†ã€‚
     it's awesome!
+
